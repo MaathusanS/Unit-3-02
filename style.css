@@ -1,0 +1,49 @@
+body {
+  background-image: url(Images/background.jfif);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.para {
+  text-align: center;
+  margin-bottom: 10px;
+  color: white;
+  background: url(Images/stonetexture.jpg);
+  background-position: left top;
+  background-repeat: repeat;
+  border-radius: 25px;
+  border: 3px solid black;
+  padding: 5px;
+  width: 150px;
+  height: 50px;
+}
+
+.image {
+  width: 500px;
+  height: 300px;
+  padding-top: 50px;
+  border: 3px dotted lime;
+}
+
+.tab {
+  border: 5px dashed blueviolet;
+  max-width: 200px;
+  max-height: 150px;
+}
+
+table,
+th,
+td {
+  border: 3px double black;
+}
+
+table {
+  width: 200px;
+  height: 150px;
+}
+
+th,
+td {
+  padding: 5px;
+}
